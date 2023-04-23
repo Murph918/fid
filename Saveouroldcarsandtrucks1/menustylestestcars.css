@@ -1,0 +1,74 @@
+﻿
+
+
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap" rel="stylesheet" >
+
+
+h1 {
+    text-align: center;
+    font-family: 'NotoSerif-Regular';
+    font-size: 43px;
+    font-weight: normal;
+    text-transform: uppercase;
+    border-bottom: 1px solid #57b1dc;
+    margin-top: 30px;
+}
+
+h2 {
+    font-family: 'NotoSerif-Regular';
+    
+    font-size: 1em;
+}
+
+p::first-letter {
+    font-size: 1.5rem;
+    font-weight: bold;
+    
+}
+
+
+body {
+    background-color: #C4A484;
+    font-family: 'NotoSerif-Regular';
+    font-size: 100%;
+    line-height: 175%;
+    margin: 0 15%;
+    background:
+}
+
+header {
+    margin-top: 0;
+    padding: 3em 1em 2em 1em;
+    text-align: center;
+    
+}
+
+
+a {
+    text-decoration: none
+}
+
+    a:link {
+        color: #338899;
+    }
+
+    a:visited {
+        color: #937393;
+    }
+
+    a:focus, a:hover {
+        color: #0028f2;
+        background-color: #FFCCFF;
+    }
+
+    a:active {
+        color: #f0f;
+        background-color: #fff;
+    }
+
+
+
+
+
+}
+
