@@ -1,0 +1,76 @@
+﻿
+
+<link rel="stylesheet"
+href="href="https://fonts.googleapis.com/css2?family=Ysabeau">
+
+
+
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Ysabeau';
+    font-size: 43px;
+    font-weight: normal;
+    text-transform: uppercase;
+    border-bottom: 1px solid #57b1dc;
+    margin-top: 30px;
+}
+
+h2 {
+    font-family: 'Ysabeau';
+    color: #120e0c;
+    font-size: 1em;
+}
+
+p::first-letter {
+    font-size: 1.5rem;
+    font-weight: bold;
+    
+}
+
+
+body {
+    background-color: #BFDCF6;
+    font-family: Ysabeau;
+    font-size: 100%;
+    line-height: 175%;
+    margin: 0 15%;
+    
+}
+
+header {
+    margin-top: 0;
+    padding: 3em 1em 2em 1em;
+    text-align: center;
+    }
+
+a {
+    text-decoration: none
+}
+
+    a:link {
+        
+            color: #00008B;
+    }
+
+    a:visited {
+        color: #937393;
+    }
+
+    a:focus, a:hover {
+        color: #00008B;
+        background-color: #ECFFDC;
+    }
+
+    a:active {
+        color: #00008B;
+        background-color: #fff;
+    }
+
+
+
+
+
+}
+
